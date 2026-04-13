@@ -1,0 +1,8 @@
+MPG: 10
+USD per Gallon: 7
+TODO: calculations!!
+MILES     USD
+   20    14.00
+   75    52.50
+  500   350.00
+  
